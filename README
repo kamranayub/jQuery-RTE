@@ -1,0 +1,19 @@
+jQuery RTE
+
+A lightweight jQuery Rich Text Editor forked off of Batiste Bieler's jQuery Lightweight Rich Text Editor.
+
+http://batiste.dosimple.ch/blog/2007-09-11-1/
+
+Modified by Kamran Ayub
+
+DOCUMENTATION
+http://www.intrepidstudios.com/projects/jquery-rich-text-editor/
+
+LICENSE
+This code is dual-licensed under MIT and GPL, just like jQuery.
+
+CHANGELOG
+
+1/13/2011
+
+	- Initial project checkin, as-is, no warranties :)

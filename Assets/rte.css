@@ -1,0 +1,45 @@
+
+.frameBody
+{
+    font-family:Verdana, Arial, sans-serif;
+    font-size:70%;
+    margin:0;
+	padding:1em;
+    height:100%;
+}
+
+.frameBody p
+{
+    padding:0;
+}
+
+.rte-zone
+{
+	width:350px;
+	margin:0;
+	padding:0;
+	height:160px;
+	border:1px #999 solid;
+    clear:both;
+}
+
+.rte-edm {
+	display:block;
+}
+
+.rte-toolbar { 
+	overflow:hidden; 
+}
+
+.rte-toolbar a, .rte-toolbar a img {
+	border:0;
+}
+
+.rte-toolbar p {
+    float:left;
+    margin:0;
+    padding-right:5px;
+}
+
+
+
